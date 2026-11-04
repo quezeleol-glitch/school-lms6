@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAN 19 Asesmen</string>
+    <string name="tab_web">Asesmen</string>
+    <string name="tab_ai">AI Guru</string>
+</resources>

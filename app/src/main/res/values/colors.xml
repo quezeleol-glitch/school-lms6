@@ -1,0 +1,11 @@
+<resources>
+    <color name="green_primary">#0B6B3A</color>
+    <color name="green_dark">#06472A</color>
+    <color name="gold">#E3A51C</color>
+    <color name="bg">#F6F7F2</color>
+    <color name="bubble_user">#0B6B3A</color>
+    <color name="bubble_ai">#FFFFFF</color>
+    <color name="text_dark">#1E2A22</color>
+    <color name="text_muted">#5B6B60</color>
+    <color name="white">#FFFFFF</color>
+</resources>
